@@ -5,6 +5,7 @@ public/
 storage/
 storage/uploads/
 .env
+.address
 private/ssl/*.pem
 
 # Logs
